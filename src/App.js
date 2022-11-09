@@ -5,6 +5,8 @@ import About from "./component/about/About"
 import Developer from "./component/developer/Developer"
 import Subscribe from "./component/subscribe/Subscribe"
 
+import Sammour from "./component/Sammour/Sommour"
+
 function App() {
   return (
     <div className="App">
@@ -13,6 +15,7 @@ function App() {
       <About />
       <Developer />
       <Subscribe />
+      <Sammour />
     </div>
   )
 }
