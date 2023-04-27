@@ -1,5 +1,4 @@
 import React from "react"
-import MainVideo from "../../assets/video.mp4"
 import "./Hero.css"
 
 const hero = () => {
